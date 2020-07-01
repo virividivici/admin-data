@@ -294,8 +294,9 @@
   }
   ],
   "orders": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "status": "open", "postId": 1 },
+    { "id": 2, "status": "declined", "postId": 1 },
+    { "id": 3, "status": "accepted", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
