@@ -297,32 +297,12 @@
     { 
       "id": 1, 
       "body": "some comment", 
-      "postId": 1,
-      "Date": "11:40 Fri 29 May 2020", 
-	    "status": "Open", 
-	    "total": 0000.00, 
-	    "email": "name@email.com", 
-	    "address" : {
-	        "street": "Kattie Turnpike",
-	        "suite": "Suite 198",
-	        "city": "Lebsackbury",
-	        "postcode": "31428-2261"
-	      }
+      "postId": 1
     },
     { 
       "id": 2, 
       "body": "some comment", 
-      "postId": 1,
-      "Date": "11:40 Fri 29 May 2020", 
-	    "status": "Open", 
-	    "total": 0000.00, 
-	    "email": "name@email.com", 
-	    "address" : {
-	        "street": "Kattie Turnpike",
-	        "suite": "Suite 198",
-	        "city": "Lebsackbury",
-	        "postcode": "31428-2261"
-	      }
+      "postId": 1
     }
   ],
   "profile": {
