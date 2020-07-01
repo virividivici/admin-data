@@ -35,7 +35,7 @@
     "id": 4,
     "title": "eum et est occaecati",
     "body": "ullam et saepe reiciendisdi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
-     "size": "100mm X 50mm X 10.5 kg X 6400mm",
+    "size": "100mm X 50mm X 10.5 kg X 6400mm",
     "weight": 1000.00,
     "lead": 000.00,
     "base":00.00,
@@ -70,26 +70,6 @@
     "lead": 000.00,
     "base":00.00,
     "status": "Unavailable"
-  },
-  {
-    "id": 8,
-    "title": "dolorem dolore est ipsam",
-    "body": "d commodi dolor voluptatum modi aut vitae",
-     "size": "100mm X 50mm X 10.5 kg X 6400mm",
-    "weight": 1000.00,
-    "lead": 000.00,
-    "base":00.00,
-    "status": "In stock"
-  },
-  {
-    "id": 9,
-    "title": "nesciunt iure omnis dolorem tempora et accusantium",
-    "body": "consectetur animi nesciunt iure dolore\as",
-     "size": "100mm X 50mm X 10.5 kg X 6400mm",
-    "weight": 1000.00,
-    "lead": 000.00,
-    "base":00.00,
-    "status": "In stock"
   }
   ],
   "customers": [
@@ -252,29 +232,6 @@
       "name": "Johns Group",
       "catchPhrase": "Configurable multimedia task-force",
       "bs": "generate enterprise e-tailers"
-    }
-  },
-  {
-    "id": 8,
-    "name": "Nicholas Runolfsdottir V",
-    "username": "Maxime_Nienow",
-    "email": "Sherwood@rosamond.me",
-    "address": {
-      "street": "Ellsworth Summit",
-      "suite": "Suite 729",
-      "city": "Aliyaview",
-      "zipcode": "45169",
-      "geo": {
-        "lat": "-14.3990",
-        "lng": "-120.7677"
-      }
-    },
-    "phone": "586.493.6943 x140",
-    "website": "jacynthe.com",
-    "company": {
-      "name": "Abernathy Group",
-      "catchPhrase": "Implemented secondary concept",
-      "bs": "e-enable extensible e-tailers"
     }
   }
   ],
