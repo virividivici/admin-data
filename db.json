@@ -328,6 +328,15 @@
     { "id": 12345672, "date": "2020-05-26T13:51:50.417-07:00", "status": "declined", "total": 1000.00, "userId": 4 },
     { "id": 12345673, "date": "2020-05-26T13:51:50.417-07:00", "status": "accepted", "total": 1000.00, "userId": 6 }
   ],
+  "ordersStatus": [
+    { "id": 1, "label": "open" },
+    { "id": 2, "label": "declined" },
+    { "id": 3, "label": "accepted"}
+  ],
+   "productStatus": [
+    { "id": 1, "label": "Instock" },
+    { "id": 2, "label": "Unavailable" }
+  ],
   "profile": {
     "name": "typicode"
   }
