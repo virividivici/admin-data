@@ -336,8 +336,5 @@
    "productStatus": [
     { "id": 1, "label": "Instock" },
     { "id": 2, "label": "Unavailable" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
